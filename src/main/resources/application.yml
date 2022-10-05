@@ -1,0 +1,21 @@
+server:
+  port: 8088
+
+spring:
+  banner:
+    location: classpath:static/banner.txt
+  datasource:
+    url: jdbc:postgresql://localhost:5432/
+    username:
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+telegram:
+  bot:
+    username: ''
+    token: ''
+  group:
+    chatId: ''

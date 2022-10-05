@@ -1,0 +1,10 @@
+${AnsiColor.GREEN}  _    _                       _____            __
+${AnsiColor.GREEN} | |  | |                     |_   _|          / _|
+${AnsiColor.GREEN} | |  | |  ___    ___   _ __    | |    _ __   | |_    ___
+${AnsiColor.GREEN} | |  | | / __|  / _ \ | '__|   | |   | '_ \  |  _|  / _ \
+${AnsiColor.GREEN} | |__| | \__ \ |  __/ | |     _| |_  | | | | | |   | (_) |
+${AnsiColor.GREEN}  \____/  |___/  \___| |_|    |_____| |_| |_| |_|    \___/
+
+${AnsiColor.RED}            :: Running Spring Boot ${spring-boot.version} ::
+${AnsiColor.CYAN}                 :: Umid Muxtorov ::
+

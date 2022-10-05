@@ -1,0 +1,10 @@
+include:
+  - project: 'telegrambot/cicd-config-holder'
+    ref: master
+    file: '.gitlab-ci.yml'
+
+variables:
+  DEPLOY_PATH: /DATA/resume/data/bin/
+  DOCKER_NAME: resume
+  SUCCESS_TG_USER: '@Abbosaliyev'
+  FAILURE_TG_USER: '@Abbosaliyev'
